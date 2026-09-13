@@ -1,0 +1,8 @@
+{
+  "name": "VIETSHOP11. VN",
+  "description": "Siêu Thị Trực Tuyến Mua sắm trực tuyến đa dạng sản phẩm, uy tín, tin cậy, freeship toàn quốc",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
